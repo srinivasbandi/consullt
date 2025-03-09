@@ -45,7 +45,7 @@ h1 {
 }
 
 h2 {
-  color: #ff6e84;
+  color: #0e5796;
   font-weight: 700;
   font-size: 2.125rem;
   line-height: 2.625rem;
@@ -504,7 +504,7 @@ input[type="checkbox"] {
 .dropdown.show > a,
 .nav-link:hover,
 .nav-link.active {
-  color: #ff6e84;
+  color: #0e5796;
   text-decoration: none;
 }
 
@@ -560,7 +560,7 @@ input[type="checkbox"] {
 .dropdown-item:focus {
   text-decoration: none;
   background-color: #f1f9fc;
-  color: #ff6e84;
+  color: #0e5796;
 }
 
 .dropdown-divider {
@@ -972,7 +972,7 @@ a:hover.back-to-top {
 }
 
 .ex-cards-1 .card .fa-stack-2x {
-  color: #ff6e84;
+  color: #0e5796;
 }
 
 .ex-cards-1 .card .fa-stack-1x {
@@ -1014,7 +1014,7 @@ a:hover.back-to-top {
     padding-left: 0;
     padding-right: 0;
     padding-top: 1.75rem;
-    border-bottom: solid 3px #ff6e84;
+    border-bottom: solid 3px #0e5796;
   }
 
   .navbar-collapse {
